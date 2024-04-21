@@ -9,6 +9,8 @@ editor_options:
 This repository is about the data tidying of the dataset of Human
 Activity Recognition Using Smartphones
 
+First of all, the zip file of data is 270mb, which is very big, so I didn't upload to github. 
+
 Files CodeBook.md a code book that describes the variables, the data,
 and any transformations or work
 
